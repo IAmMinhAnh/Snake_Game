@@ -3,6 +3,7 @@ from pygame.math import Vector2
 from stuff import *
 
 pygame.init()
+print("Hello world")
 
 class SNAKE:
     def __init__(self):
